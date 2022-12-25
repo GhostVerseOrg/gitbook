@@ -13,20 +13,27 @@ There are 13 drops, each with 666 NFTs in it for a total of 8658 NFTs. Drop 1 is
 ### Drop 1
 
 * **Launch Date**: <mark style="color:green;"></mark> <mark style="color:yellow;">Friday 13 May 2022</mark>
-* **Mint Price:** <mark style="color:yellow;">0.0666 EGLD</mark> **-** 4.30$
-* **Earned income:** <mark style="color:yellow;">13.6 EGLDs -</mark> 891.30$
+* **Mint Price:** <mark style="color:yellow;">0.0666 EGLD</mark> **-** 2.22$
+* **Earned income:** <mark style="color:yellow;">13.6 EGLDs -</mark> 454.09$
 
-![Sold Out](broken-reference)
+<figure><img src="../.gitbook/assets/banner-project-gitbook-drop1.png" alt=""><figcaption><p>Sold O</p></figcaption></figure>
 
 ### Drop 2
 
 * **Launch Date**: <mark style="color:yellow;">Friday 30 July 2022</mark>
-* **Mint Price:** <mark style="color:yellow;">0.1 EGLD</mark> - 6.55$
-* **Earned income:** <mark style="color:yellow;">21.5 EGLDs</mark> - 1409.00$
+* **Mint Price:** <mark style="color:yellow;">0.1 EGLD</mark> - 3.33$
+* **Earned income:** <mark style="color:yellow;">21.5 EGLDs</mark> - 717.86$
 
 
 
-![113 NFTs left before sold out](broken-reference)
+<figure><img src="../.gitbook/assets/banner-project-gitbook-drop-2.png" alt=""><figcaption><p>Sold Out</p></figcaption></figure>
+
+### Drop 3
+
+* **Launch Date**: <mark style="color:yellow;">TBA</mark>
+* **Mint Price:** <mark style="color:yellow;">TBA</mark>
+
+<figure><img src="../.gitbook/assets/banner-project-gitbook-drop-3.png" alt=""><figcaption><p>493 NFTs left to mint</p></figcaption></figure>
 
 {% hint style="info" %}
 There are 11 planned drops, which will be distributed progressively by membersâ€™ votes.
@@ -34,19 +41,17 @@ There are 11 planned drops, which will be distributed progressively by membersâ€
 
 ## Statistics
 
-* **Total Volume:** <mark style="color:yellow;">41 EGLDs</mark>
-* **Total holders:** <mark style="color:yellow;">515</mark>
-* **Total Mint:** <mark style="color:yellow;">36.6 EGLDs</mark> - 2399.10$
-
-![Minting progress](broken-reference)
+* **Total Volume:** <mark style="color:yellow;">29.3</mark> <mark style="color:yellow;">EGLDs</mark>
+* **Total holders:** <mark style="color:yellow;">483</mark>
+* **Total Mint:** <mark style="color:yellow;">36.6 EGLDs</mark> - 1221.33$
 
 {% hint style="info" %}
-14% of all supply has already been minted.
+17.3% of total supply has already been minted.
 {% endhint %}
 
 ## Project going&#x20;
 
-Initial contributions from the foundation are 100 EGLDs and 30 M LKMEXs.
+Initial contributions from the foundation are 120 EGLDs and 34 M xMEX.
 
 {% hint style="success" %}
 For every EGLD or LKMEX, **100%** is staked.
@@ -54,18 +59,15 @@ For every EGLD or LKMEX, **100%** is staked.
 
 * **100%** of the mint goes to stake in EGLD.
 * **100%** of the royalties go to stake in EGLD.
-* **100%** of the EGLD staking rewards go to stake in EGLD.
-* **100%** of the LKMEX staking rewards go to stake in LKMEX.
+* **100%** of the EGLD staking rewards go to the passive income.
 
 ## Wallet
 
-* **Staked EGLD:** <mark style="color:yellow;">125 EGLDs</mark> - 8300$
-* **Staked LKMEX:** <mark style="color:yellow;">30M LKMEXs</mark> - 2000$
+* **Staked EGLD:** <mark style="color:yellow;">160 EGLDs</mark> - 5334.17$
 
 ### Monthly income&#x20;
 
-* **EGLD staking rewards:** <mark style="color:yellow;">1 EGLD</mark> - 65$
-* **LKMEX staking rewards:** <mark style="color:yellow;">1M LKMEXs</mark> - 65$
+* **EGLD staking rewards:** <mark style="color:yellow;">1.2 EGLD</mark> - 40$
 
 {% embed url="https://explorer.elrond.com/accounts/erd1xuf43l9v4d3lxhfg9ehzh244592gf2an7hmuw9h84gma7j8fdsws60rrqn" %}
 View Main Wallet
