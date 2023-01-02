@@ -16,7 +16,7 @@ There are 13 drops, each with 666 NFTs in it for a total of 8658 NFTs. Drop 1 is
 * **Mint Price:** <mark style="color:yellow;">0.0666 EGLD</mark> **-** 2.22$
 * **Earned income:** <mark style="color:yellow;">13.6 EGLDs -</mark> 454.09$
 
-<figure><img src="../.gitbook/assets/banner-project-gitbook-drop1.png" alt=""><figcaption><p>Sold O</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/banner-project-gitbook-drop1.png" alt=""><figcaption><p>Sold out</p></figcaption></figure>
 
 ### Drop 2
 
@@ -24,16 +24,14 @@ There are 13 drops, each with 666 NFTs in it for a total of 8658 NFTs. Drop 1 is
 * **Mint Price:** <mark style="color:yellow;">0.1 EGLD</mark> - 3.33$
 * **Earned income:** <mark style="color:yellow;">21.5 EGLDs</mark> - 717.86$
 
-
-
-<figure><img src="../.gitbook/assets/banner-project-gitbook-drop-2.png" alt=""><figcaption><p>Sold Out</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/banner-project-gitbook-drop2 (1).png" alt=""><figcaption><p>Sold out</p></figcaption></figure>
 
 ### Drop 3
 
 * **Launch Date**: <mark style="color:yellow;">TBA</mark>
 * **Mint Price:** <mark style="color:yellow;">TBA</mark>
 
-<figure><img src="../.gitbook/assets/banner-project-gitbook-drop-3.png" alt=""><figcaption><p>493 NFTs left to mint</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/banner-project-gitbook-drop-3.png" alt=""><figcaption><p>493 Left to mint</p></figcaption></figure>
 
 {% hint style="info" %}
 There are 11 planned drops, which will be distributed progressively by members’ votes.
