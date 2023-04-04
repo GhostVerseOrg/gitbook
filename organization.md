@@ -30,7 +30,7 @@ In Asia**,** there are only 6% of MultiversX nodes in activity. We are the perfe
 
 ### It's not impossible!
 
-We're currently 2360 EGLD short of this goal. 7439 NFTs are still to be minted. That means we'll need to hit a median mint price of 0.32 EGLD.
+We're currently 2270 EGLD short of this goal. 6610 NFTs are still to be minted. That means we'll need to hit a median mint price of 0.34 EGLD.
 
 ## **Road to DAO**
 
@@ -44,9 +44,9 @@ An open-source application is needed that allows developers to contribute and ma
 
 ### A governance system
 
-Governance is already active on Superciety.
+Governance is already active on Peerme.
 
-{% embed url="https://superciety.com/fellowships/gokai-dao" %}
+{% embed url="https://peerme.io/peerings/ghostverse-dao" %}
 
 ### A multi-sig wallet
 
@@ -62,13 +62,21 @@ Several ideas have already surfaced as to what the next step could be.&#x20;
 Everything comes down to the votes of the members who make the decisions.
 {% endhint %}
 
+### Staking
+
+Staking is a requested feature that we could add, although passive income alone might be appropriate and already a running feature.
+
+### Coffee Shop
+
+We opened a coffee shop in Phuket, the [Green Garden Dispensary](https://green.gd). We want to create a tokenised shop, a real club for ghost holders and a crypto spot in Asia.
+
+### Cannabis farm&#x20;
+
+In Thailand, cannabis just got legalized. We are already registered growers. This could be a significant stream of revenue.
+
 ### Play2Earn
 
 We’ve yet to unleash our full creative power. We want to create a gameplay experience to be as immersive and engaging as possible.
-
-### Staking
-
-Staking is a requested feature that we could add, although passive income alone might be appropriate.
 
 ### Charity&#x20;
 
@@ -78,14 +86,6 @@ There are many charitable organizations in Thailand. One is one we want to help,
 
 We have a lot of palm oil fields in Thailand. It is possible to exploit their full potential while improving biodiversity.
 
-### Cannabis farm&#x20;
-
-In Thailand, cannabis just got legalized. We are already registered growers. This could be a significant stream of revenue.
-
-### Coffee Shop
-
-We're looking to open up a new kind of crypto coffee shop with discounts for those who pay with the Maiar wallet and benefits for NFT holders.
-
 ### Comic strip
 
 We know it comes down to this. And we're about to surprise you at this one point.
@@ -94,5 +94,5 @@ We know it comes down to this. And we're about to surprise you at this one point
 
 We are not planning a second collection; this collection will be one-of-a-kind! Members can only receive collector's NFTs.
 
-We are not planning ESDT tokens for now because we don't think they add any value.
+We are not planning ESDT tokens for now because we don't think they add any value but we are working on a partnership with another community project $EBUD for the [Green Garden](https://green.gd).
 
